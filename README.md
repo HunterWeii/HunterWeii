@@ -1,5 +1,9 @@
+<style>
+  .center { text-align: center; }
+</style>
+
 <!-- Banner -->
-<div style="text-align:center;margin-bottom:25px;">
+<div class="center">
   <img src="./programmer-pixel.gif"/>
 </div>
 
@@ -29,4 +33,5 @@
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
 ![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
