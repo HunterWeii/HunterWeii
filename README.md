@@ -6,6 +6,8 @@
 
 # Hey There ! I'm Heng Wai 👋
 
+<a href="./assets/Tan_Heng_Wai_Resume.pdf" download="tan_heng_wai_resume"> Grab my latest resume. </a>
+
 ## **🧑‍💻  About Me**
 
 <br />
