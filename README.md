@@ -34,10 +34,16 @@
 ![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-## **📞 Reach Me**
+## **📞 Contact Me**
 
+Hey, learning never end as a developer. If you have good career opportunity or you are looking developer for a **freelance** job,  
+please reach me out at <a href="https://www.linkedin.com/in/tan-heng-wai-969aa1bb/">LinkedIn</a> or <a href="https://api.whatsapp.com/send?phone=60164500596">Whatapps</a> me.
+
+<br />
+<br />
 <br />
 
 <div align="center">
+  <p>Happy Coding and Stay Healthy ❤️</p>
   <img height="250" src="./assets/programmer-pixel.gif">
 </div>
