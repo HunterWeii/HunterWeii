@@ -1,9 +1,5 @@
-<style>
-  .center { text-align: center; }
-</style>
-
 <!-- Banner -->
-<div class="center">
+<div style="text-align:center;">
   <img src="./programmer-pixel.gif"/>
 </div>
 
