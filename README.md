@@ -1,12 +1,14 @@
 <!-- Banner -->
-<div style="text-align:center;">
-  <img src="./programmer-pixel.gif"/>
-</div>
-
+<div align="center">
+  <img height="420" src="./assets/frontend-banner.png"/>
+</div>  
+<br />
 
 # Hey There ! I'm Heng Wai 👋
 
 ## **🧑‍💻  About Me**
+
+<br />
 
 - I work as a **Frontend developer** for over 6 years.
 - My preferable skill is **Javascript**, **React** and **CSS**.
@@ -14,6 +16,8 @@
 - What am i doing now ? I'm exploring 3D modeling, Rust and Web3 at the moment.
 
 ## **🛠 Tech Stack**
+
+<br />
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -30,3 +34,10 @@
 ![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
+## **📞 Reach Me**
+
+<br />
+
+<div align="center">
+  <img height="250" src="./assets/programmer-pixel.gif">
+</div>
