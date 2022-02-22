@@ -4,8 +4,7 @@
 </div>
 
 
-## Hey There ! I'm Heng Wai 👋
----
+# Hey There ! I'm Heng Wai 👋
 
 ## **🧑‍💻  About Me**
 
