@@ -14,6 +14,7 @@
 - My preferable skill is **Javascript**, **React** and **CSS**.
 - However, i am pretty confidence to work on backend and mobile environment too 😎.
 - What am i doing now ? I'm exploring 3D modeling, Rust and Web3 at the moment.
+- Gaming lover, Genshin Player and Runner.
 
 ## **🛠 Tech Stack**
 
