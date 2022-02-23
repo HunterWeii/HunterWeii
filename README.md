@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img height="420" src="./assets/frontend-banner.png"/>
+  <img height="320" src="./assets/frontend-banner.png"/>
 </div>  
 <br />
 
@@ -39,10 +39,9 @@
 
 ## **📞 Contact Me**
 
-Hey, learning never end as a developer. If you have good career opportunity or you are looking developer for a **freelance** job,  
+Hey, learning never end as a developer. If you have good career opportunity or you are looking developer for a **freelance** job,
 please reach me out at <a href="https://www.linkedin.com/in/tan-heng-wai-969aa1bb/">LinkedIn</a> or <a href="https://api.whatsapp.com/send?phone=60164500596">Whatapps</a> me.
 
-<br />
 <br />
 <br />
 
